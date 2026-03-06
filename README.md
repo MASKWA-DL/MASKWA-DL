@@ -63,55 +63,51 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
+<br/>
+
 ---
 
-## Contribution Snake
+## About Me
+
+<div align="center">
+
+🔐 **Security-first mindset** · Building robust systems through adversarial thinking
+
+🧠 **AI Safety** · Exploring the intersection of machine learning and security
+
+📐 **Mathematics** · Formal methods, cryptographic proofs, and algorithm analysis
+
+🌊 **Ocean lover** · The depth of the sea mirrors the depth of knowledge
+
+</div>
+
+<br/>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MASKWA-DL/MASKWA-DL/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MASKWA-DL/MASKWA-DL/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/MASKWA-DL/MASKWA-DL/output/github-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/MASKWA-DL/MASKWA-DL/output/github-snake.svg" />
   </picture>
-</div>
-
----
-
-## About
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Research Interests</h3>
-      <ul>
-        <li>AI Safety / Adversarial Machine Learning</li>
-        <li>Cryptography and Network Security</li>
-        <li>Binary Analysis and Reverse Engineering</li>
-        <li>Mathematical Foundations of Security</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Current Focus</h3>
-      <ul>
-        <li>Computer Architecture and Data Structures</li>
-        <li>Exploring the philosophy behind formal logic</li>
-        <li>Building tools at the intersection of security and AI</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- 艺术字动态格言 -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=4000&pause=2000&color=00BFFF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%E2%9C%A8+Seek+Truth%2C+Be+Pragmatic%2C+Never+Stop+Improving.+%E2%9C%A8" alt="Motto" />
-  </a>
 </div>
 
 <br/>
 
-<!-- 波浪底部 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00BFFF,100:0d1117&height=120&section=footer" width="100%" 
-/>
+---
+
+<div align="center">
+  <em>「 从深海到星空，从逻辑到直觉 — 安全之道 」</em>
+  <br/>
+  <sub>From the deep sea to the stars, from logic to intuition — the way of security.</sub>
+</div>
+
+<br/>
+
+<!-- 海浪页脚 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003355,50:0088cc,100:00BFFF&height=120&section=footer" width="100%" />
+</div>
