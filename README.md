@@ -65,35 +65,6 @@
 
 ---
 
-## Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MASKWA-DL&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" />
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MASKWA-DL&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&icon_color=00bfff&title_color=00bfff&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MASKWA-DL&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=c9d1d9&langs_count=8" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="60%" src="https://streak-stats.demolab.com/?user=MASKWA-DL&theme=dark&hide_border=true&border_radius=12&background=0d1117&stroke=00bfff&ring=00bfff&fire=00bfff&currStreakLabel=00bfff&sideLabels=00bfff&currStreakNum=ffffff&sideNums=ffffff&dates=555555" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MASKWA-DL&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&area_color=00bfff20&hide_border=true&custom_title=Contribution%20Activity" />
-</div>
-
----
-
 ## Contribution Snake
 
 <div align="center">
@@ -131,10 +102,6 @@
 </table>
 
 ---
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+only+truly+secure+system+is+one+that+is+powered+off.&author=Gene+Spafford" />
-</div>
 
 <br/>
 
