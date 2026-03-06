@@ -71,13 +71,13 @@
 
 <div align="center">
 
-🔐 **Security-first mindset** · Building robust systems through adversarial thinking
+**Security-first mindset** · Building robust systems through adversarial thinking
 
-🧠 **AI Safety** · Exploring the intersection of machine learning and security
+**AI Safety** · Exploring the intersection of machine learning and security
 
-📐 **Mathematics** · Formal methods, cryptographic proofs, and algorithm analysis
+**Mathematics** · Formal methods, cryptographic proofs, and algorithm analysis
 
-🌊 **Ocean lover** · The depth of the sea mirrors the depth of knowledge
+**Ocean lover** · The depth of the sea mirrors the depth of knowledge
 
 </div>
 
@@ -85,7 +85,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
   <picture>
@@ -99,15 +99,16 @@
 
 ---
 
+<!-- 艺术字动态格言 -->
 <div align="center">
-  <em>「 从深海到星空，从逻辑到直觉 — 安全之道 」</em>
-  <br/>
-  <sub>From the deep sea to the stars, from logic to intuition — the way of security.</sub>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=4000&pause=2000&color=00BFFF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%E2%9C%A8+Seek+Truth%2C+Be+Pragmatic%2C+Never+Stop+Improving.+%E2%9C%A8" alt="Motto" />
+  </a>
 </div>
 
 <br/>
 
-<!-- 海浪页脚 -->
+<!-- 波浪底部 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003355,50:0088cc,100:00BFFF&height=120&section=footer" width="100%" />
 </div>
