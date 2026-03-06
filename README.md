@@ -103,11 +103,15 @@
 
 ---
 
+<!-- 艺术字动态格言 -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Seek+Truth%2C+Be+Pragmatic%2C+Never+Stop+Improving.&author=MASKWA-DL" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=4000&pause=2000&color=00BFFF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%E2%9C%A8+Seek+Truth%2C+Be+Pragmatic%2C+Never+Stop+Improving.+%E2%9C%A8" alt="Motto" />
+  </a>
 </div>
 
 <br/>
 
 <!-- 波浪底部 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00BFFF,100:0d1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00BFFF,100:0d1117&height=120&section=footer" width="100%" 
+/>
