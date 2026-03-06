@@ -11,13 +11,15 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Generate Snake Game
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Snake Game (full version with GIF support)
+        uses: Platane/snk@v3
         with:
           github_user_name: MASKWA-DL
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=%2300BFFF&color_dots=%230d1117,%23003355,%23005588,%230088cc,%2300BFFF
+            dist/ocean-dark.svg?color_snake=%2300BFFF&color_dots=%230d1117,%23003355,%23005588,%230088cc,%2300BFFF
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
