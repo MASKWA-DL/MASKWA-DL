@@ -1,51 +1,48 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🌌 MASKWA-DL 的数字宇宙 — GitHub Profile README                    -->
+<!-- MASKWA-DL — GitHub Profile README                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- ────────── 动态打字横幅 ────────── -->
+<!-- 动态打字横幅 -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=4000&pause=400&color=FF6EF4&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=820&height=110&lines=%F0%9F%9A%80+MASKWA-DL+%7C+Junhao+Wa;Code+%C2%B7+Architecture+%C2%B7+AI+%C2%B7+Create" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3500&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=820&height=110&lines=MASKWA-DL+%7C+Junhao+Wa;InfoSec+%C2%B7+AI+Security+%C2%B7+Mathematics" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- ────────── 波浪分割线 ────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=180&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=32" width="100%" />
+<!-- 波浪头部 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF41,100:0d1117&height=160&section=header&text=&fontSize=1" width="100%" />
 
-<!-- ────────── 简介卡片 ────────── -->
+<!-- 简介 -->
 <div align="center">
-  
-  ```txt
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  🧑‍💻  开发工程师 | 专注于底层架构与 AI 应用 | he/him          ║
-  ║  🌍  在严谨的底层代码逻辑与天马行空的创意碰撞中，构建未来      ║
-  ╚══════════════════════════════════════════════════════════════╝
-  ```
+
+```
+ ┌──────────────────────────────────────────────────────────────┐
+ │  Security Engineer  |  AI Safety  |  Mathematics  |  he/him │
+ │  Where rigorous logic meets adversarial thinking.           │
+ └──────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 <br/>
 
-<!-- ────────── 社交徽章 ────────── -->
 <div align="center">
   <a href="https://github.com/MASKWA-DL">
     <img src="https://img.shields.io/badge/GitHub-MASKWA--DL-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=MASKWA-DL&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/MASKWA-DL?style=for-the-badge&color=ff69b4&label=Followers" />
-  <img src="https://img.shields.io/github/stars/MASKWA-DL?style=for-the-badge&color=ffd700&label=Total+Stars&affiliations=OWNER" />
+  <img src="https://komarev.com/ghpvc/?username=MASKWA-DL&style=for-the-badge&color=00ff41&label=VIEWS" />
+  <img src="https://img.shields.io/github/followers/MASKWA-DL?style=for-the-badge&color=00ff41&label=Followers&logo=github" />
 </div>
 
 <br/>
 
 ---
 
-## ⚡ 核心技能 (Tech Stack)
+## Tech Stack
 
-<!-- 动态旋转技术图标 -->
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,python,androidstudio,tensorflow,pytorch,linux,git,docker,vscode&perline=5&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,java,python,linux,docker,git,vscode,tensorflow,pytorch,kali&perline=5&theme=dark" />
   </a>
 </div>
 
@@ -56,47 +53,47 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_&_ML-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Architecture_&_Circuits-007ACC?style=for-the-badge&logo=eclipsesmarthome&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Security-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cryptography-2C2D72?style=for-the-badge&logo=letsencrypt&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 ---
 
-## 🏆 GitHub 荣誉墙 (Trophies)
+## Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MASKWA-DL&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MASKWA-DL&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" />
 </div>
 
 ---
 
-## 📊 开发者数据 (GitHub Stats)
+## GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MASKWA-DL&show_icons=true&theme=radical&rank_icon=github&border_radius=16&hide_border=true&bg_color=0d1117" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MASKWA-DL&layout=compact&theme=radical&border_radius=16&hide_border=true&bg_color=0d1117&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MASKWA-DL&show_icons=true&theme=chartreuse-dark&border_radius=12&hide_border=true&bg_color=0d1117&icon_color=00ff41&title_color=00ff41&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MASKWA-DL&layout=compact&theme=chartreuse-dark&border_radius=12&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=MASKWA-DL&theme=radical&hide_border=true&border_radius=16&background=0d1117" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=MASKWA-DL&theme=dark&hide_border=true&border_radius=12&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=ffffff&sideNums=ffffff&dates=555555" />
 </div>
 
 <br/>
 
-<!-- ────────── 活动折线图 ────────── -->
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MASKWA-DL&theme=redical&bg_color=0d1117&color=ff6ef4&line=ff6ef4&point=ffffff&area=true&area_color=ff6ef480&hide_border=true&custom_title=🔥%20Contribution%20Activity%20Graph" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MASKWA-DL&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4120&hide_border=true&custom_title=Contribution%20Activity" />
 </div>
 
 ---
 
-## 🐍 贡献贪吃蛇 (Contribution Snake)
+## Contribution Snake
 
-<!-- 需要配置 GitHub Actions 自动生成，见下方说明 -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MASKWA-DL/MASKWA-DL/output/github-snake-dark.svg" />
@@ -107,40 +104,41 @@
 
 ---
 
-## 🚀 项目与生活 (Projects & Life)
+## About
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 当前项目</h3>
-      <p>致力于 <b>MindFlow</b> 项目的架构与开发，将想法化为现实。</p>
+      <h3>Research Interests</h3>
+      <ul>
+        <li>AI Safety / Adversarial Machine Learning</li>
+        <li>Cryptography and Network Security</li>
+        <li>Binary Analysis and Reverse Engineering</li>
+        <li>Mathematical Foundations of Security</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🔬 技术探索</h3>
-      <p>沉迷于计算机组成原理、数据结构，并在逻辑学背后的哲学思考中寻找灵感。</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <h3>☕ 生活碎片</h3>
-      <p>闲暇时，你可能会在大理的樊登书店偶遇我——那里有我做咖啡、整理书籍和辅导功课的记忆。</p>
+      <h3>Current Focus</h3>
+      <ul>
+        <li>Computer Architecture and Data Structures</li>
+        <li>Exploring the philosophy behind formal logic</li>
+        <li>Building tools at the intersection of security and AI</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- ────────── 名言 ────────── -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+only+truly+secure+system+is+one+that+is+powered+off.&author=Gene+Spafford" />
 </div>
 
 <br/>
 
-<!-- ────────── 波浪底部 ────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=120&section=footer" width="100%" />
+<!-- 波浪底部 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF41,100:0d1117&height=120&section=footer" width="100%" />
 
-<!-- ────────── 底部访问计数器 ────────── -->
 <div align="center">
   <img src="https://profile-counter.glitch.me/MASKWA-DL/count.svg" />
 </div>
