@@ -104,7 +104,7 @@
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Seeking+Truth+and+Being+Pragmatic%2C+Constant+Self-Improvement.&author=MASKWA-DL" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Seek+Truth%2C+Be+Pragmatic%2C+Never+Stop+Improving.&author=MASKWA-DL" />
 </div>
 
 <br/>
