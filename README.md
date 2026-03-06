@@ -99,7 +99,7 @@
 
 ---
 
-<!-- 艺术字动态格言 -->
+<!-- 艺术���动态格言 -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=4000&pause=2000&color=00BFFF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%E2%9C%A8+Seek+Truth%2C+Be+Pragmatic%2C+Never+Stop+Improving.+%E2%9C%A8" alt="Motto" />
@@ -108,7 +108,7 @@
 
 <br/>
 
-<!-- 波浪底部 -->
+<!-- 海洋主题页脚 — 更丰富的海洋蓝渐变 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003355,50:0088cc,100:00BFFF&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a33,15:003366,30:005599,50:0077cc,70:0099ee,85:00bbff,100:33ccff&height=150&section=footer" width="100%" />
 </div>
