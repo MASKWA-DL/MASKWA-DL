@@ -14,19 +14,14 @@
   <img src="./assets/ocean-header.svg" width="100%" />
 </div>
 
-<!-- 简介 -->
+<!-- 简介 — 简约引用风格 -->
 <div align="center">
-
-```
- ┌──────────────────────────────────────────────────────────────┐
- │  Security Engineer  |  AI Safety  |  Mathematics  |  he/him │
- │  Where rigorous logic meets adversarial thinking.           │
- └──────────────────────────────────────────────────────────────┘
-```
-
+  <br/>
+  <em>Exploring the boundaries where mathematics meets adversarial thinking.</em>
+  <br/>
+  <strong>AI Safety · Deep Learning · Formal Methods · Cryptography</strong>
+  <br/><br/>
 </div>
-
-<br/>
 
 <div align="center">
   <a href="https://github.com/MASKWA-DL">
@@ -99,7 +94,7 @@
 
 ---
 
-<!-- 艺术���动态格言 -->
+<!-- 艺术字动态格言 -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=4000&pause=2000&color=00BFFF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%E2%9C%A8+Seek+Truth%2C+Be+Pragmatic%2C+Never+Stop+Improving.+%E2%9C%A8" alt="Motto" />
