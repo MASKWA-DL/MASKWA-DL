@@ -5,12 +5,14 @@
 <!-- 动态打字横幅 -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3500&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=820&height=110&lines=MASKWA-DL+%7C+Junhao+Wa;InfoSec+%C2%B7+AI+Security+%C2%B7+Mathematics" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3500&pause=500&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=820&height=110&lines=MASKWA-DL+%7C+Junhao+Wa;InfoSec+%C2%B7+AI+Security+%C2%B7+Mathematics" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- 波浪头部 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF41,100:0d1117&height=160&section=header&text=&fontSize=1" width="100%" />
+<!-- 海洋动画头部 -->
+<div align="center">
+  <img src="./assets/ocean-header.svg" width="100%" />
+</div>
 
 <!-- 简介 -->
 <div align="center">
@@ -30,8 +32,8 @@
   <a href="https://github.com/MASKWA-DL">
     <img src="https://img.shields.io/badge/GitHub-MASKWA--DL-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=MASKWA-DL&style=for-the-badge&color=00ff41&label=VIEWS" />
-  <img src="https://img.shields.io/github/followers/MASKWA-DL?style=for-the-badge&color=00ff41&label=Followers&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=MASKWA-DL&style=for-the-badge&color=00bfff&label=VIEWS" />
+  <img src="https://img.shields.io/github/followers/MASKWA-DL?style=for-the-badge&color=00bfff&label=Followers&logo=github" />
 </div>
 
 <br/>
@@ -66,7 +68,7 @@
 ## Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MASKWA-DL&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MASKWA-DL&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" />
 </div>
 
 ---
@@ -74,20 +76,20 @@
 ## GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MASKWA-DL&show_icons=true&theme=chartreuse-dark&border_radius=12&hide_border=true&bg_color=0d1117&icon_color=00ff41&title_color=00ff41&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MASKWA-DL&layout=compact&theme=chartreuse-dark&border_radius=12&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MASKWA-DL&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&icon_color=00bfff&title_color=00bfff&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MASKWA-DL&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=c9d1d9&langs_count=8" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=MASKWA-DL&theme=dark&hide_border=true&border_radius=12&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=ffffff&sideNums=ffffff&dates=555555" />
+  <img width="60%" src="https://streak-stats.demolab.com/?user=MASKWA-DL&theme=dark&hide_border=true&border_radius=12&background=0d1117&stroke=00bfff&ring=00bfff&fire=00bfff&currStreakLabel=00bfff&sideLabels=00bfff&currStreakNum=ffffff&sideNums=ffffff&dates=555555" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MASKWA-DL&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4120&hide_border=true&custom_title=Contribution%20Activity" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MASKWA-DL&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&area_color=00bfff20&hide_border=true&custom_title=Contribution%20Activity" />
 </div>
 
 ---
@@ -137,7 +139,7 @@
 <br/>
 
 <!-- 波浪底部 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF41,100:0d1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00BFFF,100:0d1117&height=120&section=footer" width="100%" />
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/MASKWA-DL/count.svg" />
